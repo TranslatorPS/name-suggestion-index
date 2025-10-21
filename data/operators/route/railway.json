@@ -523,12 +523,12 @@
       }
     },
     {
-      "displayName": "PKP Polskie Linie Kolejowe S.A.",
+      "displayName": "PKP Polskie Linie Kolejowe",
       "id": "pkppolskieliniekolejowesa-b8385d",
       "locationSet": {"include": ["pl"]},
       "matchNames": ["pkp plk"],
       "tags": {
-        "operator": "PKP Polskie Linie Kolejowe S.A.",
+        "operator": "PKP Polskie Linie Kolejowe",
         "operator:wikidata": "Q1344677",
         "route": "railway"
       }
